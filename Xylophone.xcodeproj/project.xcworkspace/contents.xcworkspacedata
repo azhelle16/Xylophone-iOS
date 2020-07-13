@@ -2,9 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:/Users/aZheLLe/Desktop/aZheLLe/Personal/Udemy/IOS/Xylophone-iOS/Xylophone/Sounds">
-   </FileRef>
-   <FileRef
       location = "self:">
    </FileRef>
 </Workspace>

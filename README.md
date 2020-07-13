@@ -12,5 +12,5 @@ A musical IOS application built using AVFoundation and AVAudioPlayer. This appli
 	- Code Refactoring
 	- Basic Debugging
 
-This application is coded as part of The App Brewery's Complete App Development Bootcamp. 
-
+## Note
+This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
